@@ -1,9 +1,11 @@
 <h1 align="center">👾 Hi there, I'm Thiago! 👾</h1>
+
 <p align="center">
- - A.I and Data Science Student at the University Anhembi Morumbi - UAM. <br>
- - Passionate about programming, A.I, data science and games. <br>
- <br>
- - Working at Finnet. ✏️
+  <ul>
+    <li>A.I and Data Science Student at the University Anhembi Morumbi - UAM.🏛️</li>
+    <li>Passionate about programming, A.I, data science and games.💻</li>
+    <li>Currently working at Finnet, focusing on project development and optimization. 👨🏻‍💻</li>
+  </ul>
 </p>
 
 ---
