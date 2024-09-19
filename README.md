@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there, I'm Gabrielle! ✨</h1>
+<h1 align="center">👾 Hi there, I'm Thiago! 👾</h1>
 <p align="center">
  - A.I and Data Science Student at the University Anhembi Morumbi - UAM. <br>
  - Passionate about programming, A.I, data science and games. <br>
@@ -46,7 +46,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/thiago-diniz-cabral-6051b21a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/mendigxs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:thiago.diniz.cabral0@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>
+  <a href="mailto:thiago.diniz.cabral@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---
